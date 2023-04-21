@@ -1,0 +1,68 @@
+{
+  "workbench.startupEditor": "none",
+  "editor.suggestSelection": "first",
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.linkedEditing": true,
+  "files.autoSave": "onFocusChange",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "editor.minimap.enabled": false,
+  "javascript.format.semicolons": "insert",
+  "explorer.compactFolders": false,
+  "terminal.integrated.windowsEnableConpty": false,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "workbench.editor.enablePreview": false,
+  "editor.fontFamily": "'Jetbrains Mono', 'Roboto Mono', Consolas",
+  "terminal.integrated.fontFamily": "'Jetbrains Mono', 'Roboto Mono', monospace",
+  "editor.wordWrap": "on",
+  "window.title": "${dirty}${activeEditorMedium}${separator}${rootName}",
+  "workbench.editor.untitled.hint": "hidden",
+  "debug.javascript.codelens.npmScripts": "never",
+  "editor.wordSeparators": "`~!@#$^&*()-=+[{]}\\|;:'\",<>/?.",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.python"
+  },
+  "workbench.colorTheme": "Default High Contrast",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active",
+  "workbench.colorCustomizations": {
+    "editorCursor.foreground": "#fb0000",
+    "terminalCursor.foreground": "#fb0000"
+  },
+  "editor.inlineSuggest.enabled": true,
+  "editor.detectIndentation": false,
+  "editor.insertSpaces": false,
+  "editor.autoClosingQuotes": "always",
+  "javascript.preferences.quoteStyle": "double",
+  "typescript.preferences.quoteStyle": "double",
+  "editor.autoClosingDelete": "always",
+  "terminal.integrated.cursorStyle": "line",
+  "[java]": {
+    "editor.defaultFormatter": "redhat.java"
+  },
+  "security.workspace.trust.enabled": false,
+  "terminal.integrated.fontSize": 14,
+  "editor.fontSize": 14,
+  "[typescript]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "explorer.confirmDelete": false,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "terminal.integrated.defaultProfile.osx": "zsh",
+  "terminal.integrated.cursorBlinking": true,
+  "editor.tabSize": 2,
+  "prettier.tabWidth": 2,
+  "update.mode": "manual",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "turboConsoleLog.logMessagePrefix": ">>",
+  "turboConsoleLog.delimiterInsideMessage": "|",
+  "terminal.integrated.cursorWidth": 2
+}
