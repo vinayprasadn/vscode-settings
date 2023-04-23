@@ -62,12 +62,8 @@
   "[javascriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "sonarlint.rules": {
-    "typescript:S6480": {
-      "level": "off"
-    }
-  },
   "turboConsoleLog.logMessagePrefix": ">>",
   "turboConsoleLog.delimiterInsideMessage": "|",
-  "terminal.integrated.cursorWidth": 2
+  "terminal.integrated.cursorWidth": 2,
+  "extensions.autoUpdate": false
 }
