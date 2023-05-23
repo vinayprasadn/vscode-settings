@@ -23,5 +23,7 @@
   "prettier.tabWidth": 2,
   "workbench.editor.untitled.hint": "hidden",
   "update.mode": "none",
-  "extensions.autoUpdate": false
+  "extensions.autoUpdate": false,
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": true
 }
