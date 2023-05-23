@@ -25,5 +25,6 @@
   "update.mode": "none",
   "extensions.autoUpdate": false,
   "editor.insertSpaces": true,
-  "editor.detectIndentation": true
+  "editor.detectIndentation": true,
+  "workbench.tips.enabled": false
 }
