@@ -65,5 +65,6 @@
   "turboConsoleLog.logMessagePrefix": ">>",
   "turboConsoleLog.delimiterInsideMessage": "|",
   "terminal.integrated.cursorWidth": 2,
-  "extensions.autoUpdate": false
+  "extensions.autoUpdate": false,
+  "workbench.tips.enabled": false
 }
