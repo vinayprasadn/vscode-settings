@@ -8,6 +8,7 @@
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
   },
+  "workbench.font": "Fira Code",
   "editor.minimap.enabled": false,
   "explorer.compactFolders": false,
   "terminal.integrated.windowsEnableConpty": false,
@@ -22,6 +23,7 @@
   "editor.wordSeparators": "`~!@#$^&*()-=+[{]}\\|;:'\",<>/?.",
   "editor.bracketPairColorization.enabled": true,
   "editor.guides.bracketPairs": "active",
+  "terminal.integrated.cursorWidth": 2,
   "workbench.colorCustomizations": {
     "editorCursor.foreground": "#fb0000",
     "terminalCursor.foreground": "#fb0000"
@@ -54,7 +56,6 @@
   "[javascriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "terminal.integrated.cursorWidth": 2,
   "workbench.tips.enabled": false,
   "workbench.colorTheme": "Default High Contrast",
   "update.showReleaseNotes": false
