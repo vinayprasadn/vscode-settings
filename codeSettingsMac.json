@@ -9,22 +9,17 @@
     "javascript": "javascriptreact"
   },
   "editor.minimap.enabled": false,
-  "javascript.format.semicolons": "insert",
   "explorer.compactFolders": false,
   "terminal.integrated.windowsEnableConpty": false,
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "workbench.editor.enablePreview": false,
-  "editor.fontFamily": "'Jetbrains Mono', 'Roboto Mono', Consolas",
-  "terminal.integrated.fontFamily": "'Jetbrains Mono', 'Roboto Mono', monospace",
+  "editor.fontFamily": "'Cousine1', 'Fira Code Light', 'Jetbrains Mono', 'Roboto Mono', monospace",
+  "terminal.integrated.fontFamily": "'Cousine1', 'Fira Code Light', 'Jetbrains Mono', 'Roboto Mono', monospace",
   "editor.wordWrap": "on",
   "window.title": "${dirty}${activeEditorMedium}${separator}${rootName}",
   "workbench.editor.untitled.hint": "hidden",
   "debug.javascript.codelens.npmScripts": "never",
   "editor.wordSeparators": "`~!@#$^&*()-=+[{]}\\|;:'\",<>/?.",
-  "[python]": {
-    "editor.defaultFormatter": "ms-python.python"
-  },
-  "workbench.colorTheme": "Default High Contrast",
   "editor.bracketPairColorization.enabled": true,
   "editor.guides.bracketPairs": "active",
   "workbench.colorCustomizations": {
@@ -33,15 +28,12 @@
   },
   "editor.inlineSuggest.enabled": true,
   "editor.detectIndentation": false,
-  "editor.insertSpaces": false,
+  "editor.insertSpaces": true,
   "editor.autoClosingQuotes": "always",
   "javascript.preferences.quoteStyle": "double",
   "typescript.preferences.quoteStyle": "double",
   "editor.autoClosingDelete": "always",
   "terminal.integrated.cursorStyle": "line",
-  "[java]": {
-    "editor.defaultFormatter": "redhat.java"
-  },
   "security.workspace.trust.enabled": false,
   "terminal.integrated.fontSize": 14,
   "editor.fontSize": 14,
@@ -62,9 +54,8 @@
   "[javascriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "turboConsoleLog.logMessagePrefix": ">>",
-  "turboConsoleLog.delimiterInsideMessage": "|",
   "terminal.integrated.cursorWidth": 2,
-  "extensions.autoUpdate": false,
-  "workbench.tips.enabled": false
+  "workbench.tips.enabled": false,
+  "workbench.colorTheme": "Default High Contrast",
+  "update.showReleaseNotes": false
 }
