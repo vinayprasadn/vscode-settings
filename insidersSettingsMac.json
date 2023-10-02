@@ -19,15 +19,18 @@
   "terminal.integrated.cursorStyle": "line",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "prettier.tabWidth": 2,
-  "editor.insertSpaces": true,
+  "editor.insertSpaces": false,
   "editor.detectIndentation": false,
   "workbench.tips.enabled": false,
   "update.showReleaseNotes": false,
   "workbench.editor.empty.hint": "hidden",
-  "update.mode": "manual",
   "workbench.colorCustomizations": {
     "editorCursor.foreground": "#fb0000",
     "terminalCursor.foreground": "#fb0000"
   },
-  "terminal.integrated.cursorWidth": 2
+  "terminal.integrated.cursorWidth": 2,
+  "editor.cursorWidth": 1,
+  "editor.codeLensFontFamily": "'Cousine1', 'Fira Code Light', 'Jetbrains Mono', 'Roboto Mono', monospace",
+  "markdown.preview.fontFamily": "'Cousine1', 'Fira Code Light', 'Jetbrains Mono', 'Roboto Mono', monospace",
+  "workbench.colorTheme": "Monokai Dimmed"
 }
